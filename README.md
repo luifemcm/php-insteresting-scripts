@@ -1,2 +1,2 @@
 # php-insteresting-scripts
-A set of interesting scripts written in php
+<h2>The differents scripts have been developed in a standard LAMPP server</h2> 
